@@ -1,31 +1,27 @@
 <h1 align="center">Hi 👋, I'm BASTEEN ...</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=basteen-a&label=Profile%20views&color=0e75b6&style=flat" alt="basteen-a" /> </p>
 
 
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=basteen-a" alt="basteen-a" /></a> </p>
 
 
 
 
 - 🔭 I’m currently working on [School Web Dev](https://github.com/Basteen-A/School-Management-System)
 
-- 
+  
 
 - 🌱 I’m currently learning **MERN Stack DEV ...**
-- 
+
 
 - 👨‍💻 All of my projects are available at [https://bit.ly/basteen](https://bit.ly/basteen)
 
 
-- 📫 How to reach me **https://[mailto:santhiyagubasteen@gmail.com]**
-- 
+- 📫 How to reach me ** mailto:santhiyagubasteen@gmail.com
+
 
 - 📄 Know about my experiences [https://basteen-a.github.io/My_Portfoliyo/img/Resume.pdf](https://basteen-a.github.io/My_Portfoliyo/img/Resume.pdf)
-- 
+
 
 <h3 align="left">Connect with me:</h3>
 
