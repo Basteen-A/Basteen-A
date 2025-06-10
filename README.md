@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning **MERN Stack DEV ...**
 
 
-- 👨‍💻 All of my projects are available at [https://bit.ly/BASTEEN](https://bit.ly/BASTEEN)
+- 👨‍💻 All of my projects are available at [https://basteen.netlify.app/](https://basteen.netlify.app/)
 
 
 - 📫 How to reach me ** mailto:santhiyagubasteen@gmail.com
